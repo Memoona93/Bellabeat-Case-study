@@ -1,4 +1,4 @@
-# %% [code]
+# %% [code] {"jupyter":{"outputs_hidden":false}}
 ---
 title: "Bellabeat Case Study with R"
 Author: "Memoona Abbas"
